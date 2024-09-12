@@ -20,10 +20,10 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
+  username: "Fitran Alfian Nizar",
   title: "Hi all, I'm Fitran",
   subTitle: emoji(
-    "A passionate AI and Software Developer 🚀 having an experience of building Web and Mobile applications with Python / Flask / Kotlin and some other cool libraries and frameworks."
+    "A passionate AI and Software Developer 🚀 having an experience of building Web and Mobile applications with Python / Flask / Kotlin and some other cool language, libraries, and frameworks."
   ),
   resumeLink:
     "", // Set to empty to hide the button
@@ -35,9 +35,9 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/raidenxvr",
   // linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "fitran.nizar2@proton.me",
+  gmail: "fitran.nizar@proton.me",
   // gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/fitranalfian",
+  facebook: "https://www.facebook.com/fitran.alfiannizar",
   // medium: "https://medium.com/@saadpasta",
   // stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
@@ -52,11 +52,11 @@ const skillsSection = {
   subTitle: "A Passionate Informatics Engineering Student That Interested In AI Development.",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Develop AI integrated applications"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Progressive Desktop or Mobile Applications"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Integration of third party services such as OpenAI, Runpod, etc."
     )
   ],
 
@@ -65,55 +65,27 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
+      skillName: "HTML",
       fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "css3",
+      skillName: "CSS",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
-    // {
-    //   skillName: "sass",
-    //   fontAwesomeClassname: "fab fa-sass"
-    // },
-    // {
-    //   skillName: "JavaScript",
-    //   fontAwesomeClassname: "fab fa-js"
-    // },
-    // {
-    //   skillName: "reactjs",
-    //   fontAwesomeClassname: "fab fa-react"
-    // },
-    // {
-    //   skillName: "nodejs",
-    //   fontAwesomeClassname: "fab fa-node"
-    // },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "sql-database",
+      skillName: "SQL Database",
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "aws",
+      skillName: "AWS",
       fontAwesomeClassname: "fab fa-aws"
     },
-    // {
-    //   skillName: "firebase",
-    //   fontAwesomeClassname: "fas fa-fire"
-    // },
     {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "docker",
+      skillName: "Docker",
       fontAwesomeClassname: "fab fa-docker"
     }
   ],
@@ -371,9 +343,9 @@ const resumeSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
+    "Discuss a project or just want to say hi? My Inbox is open for all. Call me in +62 859106665004 or email me with fitran.nizar@proton.me",
   number: "0859106665004",
-  email_address: "fitran.nizar2@proton.me"
+  email_address: "fitran.nizar@proton.me"
 };
 
 // Twitter Section
