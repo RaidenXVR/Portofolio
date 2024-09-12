@@ -343,7 +343,7 @@ const resumeSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all. Call me in +62 859106665004 or email me with fitran.nizar@proton.me",
+    "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "0859106665004",
   email_address: "fitran.nizar@proton.me"
 };
